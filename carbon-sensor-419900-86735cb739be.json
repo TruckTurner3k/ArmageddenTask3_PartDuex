@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carbon-sensor-419900",
+  "private_key_id": "86735cb739bef5cd9f7b823ad2e059298b2b8077",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCreAWvO7PNlPVW\nudZzqnULBWo4uJ0NXgAuPfK3pq18rKjnfbweRDUDaxTf9G/cTse1e4iR18z47B4d\nk/sQSs+KnwPXFk2QdrKh4znp1xjMsAAXEm4aZlAPbjYqPohygQGi8IVAYoDm3oAw\nQeSqKNmO6rxsKL7sXGTvnyK58znUveP/wkn+pFCqJgJliLK+ZQN+8j9TEjP386Wn\nZeiadQh5y5zTBJ9iCMWRWatLZHd9M3MH46PjuWfUwsRuDSX2NikKMQrRS0RNXiWW\nOzLP1iiD+N70sqZLXmv5LLJLhtJ+mySBySRxTsGBIXYI3lbsQzMSq6t1kqaqKfGE\n8o5VSaojAgMBAAECggEAGKzJ7KCjzEbOU2+ky7pQ44gg9A6lEyJe1ki13/XNa26R\nU9bFNnnMQzSqqVvMqSBxHs2rJomuhne8EbeU3pBVc3ZUoCQmf06FgERpthvtBq+h\nI7DURVpJ1R6gDs425ntoF+GS22QRdqe4PLmOxWnhfO6MtOfcKblWESGOZsH4pYN9\nO/7qmjn2WPE05N9ru26eG33GIMaK5nExModUpiwWYmTpLyk7Wpt7VMwA4/niRcfc\n/N/3c0eSrbN6s8m1tGon0qwU6vfcs2NvKNavxCL1w5dzAHA4U7mx8BMPFrbWBxhs\ni36748GatXUEeYw6y803xibr8mIySKswMmDA8MVd+QKBgQDuDdtxYauQE5Tyt+0/\n/Sxm3jGuRIe4vjcj2P7y/lGR0e4gkfu7u62hPznz2yks2iiuDTpTikCswlpycJQu\nBcrxFj98K5bVWIsSoVPDDVdASgesmzKaIAf+8TYB/rnZ+j9n/Erf4Wu0xvs9ZDT4\nLFzJYuxvHWsMEgiPwB+4TjX3PwKBgQC4ZSc+bausZSz73EmJbKgNdvriJlQXr93n\nlCK9ivaUGC5jMpwUfLiFTPUUvBRcC642gTDdYsEgVzbu9au+Fz1Bpe7MssRuN3Xt\nIw3NcLd6oQEPY/jR5Dflv8JgcmzOArQu2zw2+ftAAGEuVxA9D/ncHibs1GsfEC2E\n59djPxFYHQKBgQCd3MqdEav3y0SHALlwKa/8N3Syn/dw55MhTpEjCsuE67YCG0zY\nXcjymT8RG1De0X0Qju0S4SeqaOgZ49Yf/u9pmNtYuH8505HGNP2a54notC8Ko5CW\n7I7g3Yx3HjiY+H57sq7kcFRAeYO6Xm1R9flCAzvPI68NPhg3W6ytSBA5eQKBgQCJ\neynCWwSXeawLcNgHNVMrDt3JhahHLOG3SvSH+7cS/eCAJ3jFsaPmB1Xnir9nTXIr\nwzEKrxmtIjmb+uF8zljmvHAKgPMB9infj7Y3yWWTcb2XmwMmgxDGJK4pOMc05kEv\nelgv6TxSILZUVaeOz32Mh5KgG1RvCaHWqQEnRxuIZQKBgQDI/H01/L4vJYfTNZQG\nCSI52x3WGd9x9hND+npv/ynUtl8HuhxA8lOFJI2TIsBuB8loRq6PHRrx7zoygjo6\n6zowORXKgI2ol/cbnC3POut4/bAv4pKRbv4TPn+SYIHyyp00mxNY/2tkCjcVKJGy\n91XO4f4uhEqbAJolfGmHR4vh1w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gavingpcgroupwork@carbon-sensor-419900.iam.gserviceaccount.com",
+  "client_id": "100014649680090790264",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gavingpcgroupwork%40carbon-sensor-419900.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
